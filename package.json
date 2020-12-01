@@ -1,0 +1,18 @@
+{
+  "name": "vue-konva. Basic starts demo.",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "private": true,
+  "dependencies": {
+    "konva": "7.2.0",
+    "vue": "^2.6.11",
+    "vue-konva": "2.1.5"
+  },
+  "keywords": [
+    "vue",
+    "canvas",
+    "vue-konva",
+    "konva"
+  ]
+}
